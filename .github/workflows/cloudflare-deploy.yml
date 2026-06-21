@@ -2,7 +2,7 @@ name: Deploy to Cloudflare
 
 on:
   push:
-    分支:
+    branch:
       - main 
   workflow_dispatch:
 
